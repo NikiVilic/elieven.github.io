@@ -40,6 +40,10 @@ Ti znaki prikazujejo **trenutno stanje** določenih elementov / dokumentov:
 
 <br>
 
+- n
+
+<br>
+
 ### Drugo
 
 Matematične formule so napisane v __LaTeX__ sintaksi in generirane s sistemom __CodeCogs__.
